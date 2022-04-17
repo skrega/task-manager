@@ -1,4 +1,4 @@
-# task-vladilen
+# task-manager
 
 ## Project setup
 ```
